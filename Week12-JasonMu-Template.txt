@@ -1,0 +1,23 @@
+Lab Assignment, Unreal World in AR + First Draft Project 03
+
+PART 1 - Your AR World:
+File Naming for your world: YourName-AR-Lab
+
+	(1) your live A-frame preview link: https://jasonmu-ar-lab.glitch.me
+
+	
+	(2) a link to your A-frame code: https://glitch.com/edit/#!/jasonmu-ar-lab
+	
+	(3) Please include video documentation of your AR world in the same assignment folder as this 	text file
+	Note: File Naming for your video file: YourFullName-AR-Lab.mp4
+
+PART 2 - Project 3 First Draft:
+File Naming for your Project 03 First Draft: YourName-YourSceneTitle-FirstDraft
+	
+	Your Project 03 (A World of Your Own Imagination) Title: Underwater Scene
+	Your Project 03 (A World of Your Own Imagination) Description: Underwater scene with fish in it
+
+	(1) your live A-frame preview link: https://jasonmu-randomstuff-firstdraft.glitch.me
+
+	
+	(2) a link to your A-frame code: https://glitch.com/edit/#!/jasonmu-randomstuff-firstdraft
